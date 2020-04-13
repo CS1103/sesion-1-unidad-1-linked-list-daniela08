@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/DanielaCauti/Desktop/poo2/linked_list.cpp
+linked_list.h
+/Users/DanielaCauti/Desktop/poo2/linked_list.h
+iostream
+-
+
+/Users/DanielaCauti/Desktop/poo2/linked_list.h
+cctype
+-
+
+/Users/DanielaCauti/Desktop/poo2/main.cpp
+iostream
+-
+cassert
+-
+string
+-
+linked_list.h
+/Users/DanielaCauti/Desktop/poo2/linked_list.h
+
