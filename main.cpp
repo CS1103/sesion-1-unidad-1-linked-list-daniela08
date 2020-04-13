@@ -81,7 +81,7 @@ int main() {
         result6 += to_string(ll.item(i))+ " ";
     }
     assert(result6 == "4 3 2 1 0 ");
-
+    cout << result6;
 
     cout << "Ejecucion exitosa!!" << endl;
     return 0;
